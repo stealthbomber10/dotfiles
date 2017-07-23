@@ -23,6 +23,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+# copped from https://www.gnome-look.org/content/show.php?content=126722
 alignment top_right
 background no
 border_width 0
