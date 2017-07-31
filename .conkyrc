@@ -24,6 +24,7 @@
 #
 
 # copped from https://www.gnome-look.org/content/show.php?content=126722
+
 alignment top_right
 background no
 border_width 0
@@ -49,7 +50,7 @@ extra_newline no
 own_window yes
 own_window_class Conky
 own_window_transparent yes
-own_window_type override
+own_window_type desktop
 stippled_borders 0
 update_interval 1.0
 uppercase no
