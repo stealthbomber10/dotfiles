@@ -52,6 +52,6 @@ rofi.fuzzy: false
 *color15: #ebdbb2
 
 URxvt.scrollBar: false
-URxvt.perl-ext-common: fullscreen
+URxvt.perl-ext-common: fullscreen, resize-font
 URxvt.depth: 32
 URxvt.background: rgba:0000/0000/0200/c800
