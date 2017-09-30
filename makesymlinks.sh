@@ -9,7 +9,8 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files=".bashrc .emacs .emacs.d .Xresources .zshrc .oh-my-zsh .conkyrc .tmux.conf"    # list of files/folders to symlink in homedir
+files=".bashrc .emacs .emacs.d .Xresources .zshrc .nanorc .conkyrc 
+.tmux.conf"    # list of files/folders to symlink in homedir
 
 ##########
 
