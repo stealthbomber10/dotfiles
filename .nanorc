@@ -1,3 +1,5 @@
 include /usr/share/nano/*
 
 set nowrap
+
+set autoindent
