@@ -3,3 +3,5 @@ include /usr/share/nano/*
 set nowrap
 
 set autoindent
+
+set mouse
