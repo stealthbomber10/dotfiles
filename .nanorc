@@ -1,7 +1,8 @@
 include /usr/share/nano/*
 
 set nowrap
-
 set autoindent
-
 set mouse
+set smooth
+set nonewlines
+set tabsize 4
