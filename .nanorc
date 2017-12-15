@@ -6,3 +6,8 @@ set mouse
 set smooth
 set nonewlines
 set tabsize 4
+set speller "aspell -x -c"
+set linenumbers
+set morespace
+set quickblank
+set suspend
