@@ -1,4 +1,4 @@
-https://github.com/speakingcode/.conkyrc/blob/master/.conkyrc
+# creds to https://github.com/speakingcode/.conkyrc/blob/master/.conkyrc
 background yes
 use_xft yes
 xftfont monospace:size=9
