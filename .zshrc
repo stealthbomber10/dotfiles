@@ -84,3 +84,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias emacs="emacs -nw"
+
+# BLOCKFOLIO NPM SETTINGS
+
+# kinda stupid but im lazy (for blockfolio npm)
+alias blockfolio="export BLOCKFOLIO_DEVICE_ID=d3TDxlvnpRA:APA91bGN9sIa9gmClLdc7Sw1ntVLYMO1WUxpgzyaZ3WEpBMie5suPFgyCWEJeItpFzyfIqXLvjMqFx2iaKEaixVUFF08lEDC5sObUDSpVPrZC68G8mLiJ9X8ycWZMR2NU-_L6xH5nfzk ; blockfolio"
